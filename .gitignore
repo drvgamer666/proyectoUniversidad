@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/grado/
+/py-solc-x/
+.idea/
+grado/
+py-solc-x/
