@@ -4,5 +4,5 @@
 /grado/
 /py-solc-x/
 .idea/
-grado/
+.*grado/
 py-solc-x/
